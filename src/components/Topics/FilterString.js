@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class FilterString extends Component {
+class FilterString extends Component {
 
   constructor() {
     super();
@@ -41,3 +41,5 @@ export default class FilterString extends Component {
     )
   }
 }
+
+export default FilterString;

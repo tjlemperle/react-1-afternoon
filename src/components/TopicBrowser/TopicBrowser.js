@@ -20,4 +20,4 @@ class TopicBrowser extends Component {
   }
 }
 
-export default App;
+export default TopicBrowser;

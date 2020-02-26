@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class EvenAndOdd extends Component {
+class EvenAndOdd extends Component {
 
   constructor() {
     super();
@@ -44,3 +44,5 @@ export default class EvenAndOdd extends Component {
     )
   }
 }
+
+export default EvenAndOdd;
